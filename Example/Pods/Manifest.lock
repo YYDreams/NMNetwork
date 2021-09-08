@@ -1,0 +1,16 @@
+PODS:
+  - NMNetwork (0.1.0)
+
+DEPENDENCIES:
+  - NMNetwork (from `../`)
+
+EXTERNAL SOURCES:
+  NMNetwork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NMNetwork: 8d8195b6111cf8afa3d04b980f90437d20061536
+
+PODFILE CHECKSUM: 8001b5145286ccfbb7ec00a37322332dc29f25e2
+
+COCOAPODS: 1.10.1
